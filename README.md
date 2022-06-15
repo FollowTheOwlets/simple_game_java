@@ -4,15 +4,15 @@
 
 >## Description
 >***
->>#### Interfaces
+>>#### [Interfaces](https://github.com/FollowTheOwlets/simple_game_java/tree/main/app/src/main/java/com/example/game/interfaces_for_game)
 >>* Player
 >>* Field
 >>* Game
 >
->> #### Abstract classes
+>> #### [Abstract classes](https://github.com/FollowTheOwlets/simple_game_java/blob/main/app/src/main/java/com/example/game/classes_for_game/players/MyPlayer.java)
 >>* MyPlayer
 > 
->> #### Classes with logic
+>> #### [Classes with logic](https://github.com/FollowTheOwlets/simple_game_java/tree/main/app/src/main/java/com/example/game/classes_for_game)
 >>* MainPlayer
 >>* AngryPlayer
 >>* MyField
